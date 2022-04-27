@@ -1,0 +1,15 @@
+admin
+Username: janobe@gmail.com
+Password: admin123
+
+registrar
+hatchvillanueva16@gmail.com
+registrar123
+
+encoder
+joenin@yahoo.com
+encoder123
+
+teacher
+allan@yahoo.com
+teacher123
